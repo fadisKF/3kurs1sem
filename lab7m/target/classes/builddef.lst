@@ -1,0 +1,15 @@
+-Xajruntimetarget:1.5
+-encoding
+UTF-8
+-showWeaveInfo
+-verbose
+-23
+-classpath
+C:\Users\Фадис\.m2\repository\org\aspectj\aspectjrt\1.9.23\aspectjrt-1.9.23.jar;C:\Users\Фадис\IdeaProjects\lab7m\target\classes
+-d
+C:\Users\Фадис\IdeaProjects\lab7m\target\classes
+-s
+C:\Users\Фадис\IdeaProjects\lab7m\target\generated-sources\aspectj-maven-plugin
+C:\Users\Фадис\IdeaProjects\lab7m\src\main\java\lab789\AspectManners.aj
+C:\Users\Фадис\IdeaProjects\lab7m\src\main\java\lab789\HelloWorld.java
+C:\Users\Фадис\IdeaProjects\lab7m\src\main\java\lab789\MainClass.java
