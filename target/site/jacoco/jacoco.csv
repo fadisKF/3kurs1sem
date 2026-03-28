@@ -1,0 +1,16 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+army-patterns,punic,HorsemanHandler,0,15,0,2,0,5,0,3,0,2
+army-patterns,punic,RomanFactory,0,22,0,0,0,5,0,5,0,5
+army-patterns,punic,RomanHorseman,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,CarthaginianFactory,0,22,0,0,0,5,0,5,0,5
+army-patterns,punic,MercenaryAdapter,0,10,0,0,0,5,0,2,0,2
+army-patterns,punic,MercenaryHandler,0,15,0,2,0,5,0,3,0,2
+army-patterns,punic,RomanArcher,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,RomanInfantryman,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,CarthaginianArcher,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,CarthaginianHorseman,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,ArcherHandler,0,15,0,2,0,5,0,3,0,2
+army-patterns,punic,InfantryHandler,0,15,0,2,0,5,0,3,0,2
+army-patterns,punic,WarriorHandler,0,15,0,2,0,6,0,4,0,3
+army-patterns,punic,CarthaginianInfantryman,0,7,0,0,0,3,0,2,0,2
+army-patterns,punic,Mercenary,0,7,0,0,0,3,0,2,0,2
