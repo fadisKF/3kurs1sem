@@ -1,0 +1,14 @@
+-Xajruntimetarget:1.5
+-encoding
+UTF-8
+-showWeaveInfo
+-verbose
+-23
+-classpath
+C:\Users\Фадис\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\Фадис\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;C:\Users\Фадис\.m2\repository\org\aspectj\aspectjrt\1.9.23\aspectjrt-1.9.23.jar;C:\Users\Фадис\IdeaProjects\lab8\target\classes
+-d
+C:\Users\Фадис\IdeaProjects\lab8\target\classes
+-s
+C:\Users\Фадис\IdeaProjects\lab8\target\generated-sources\aspectj-maven-plugin
+C:\Users\Фадис\IdeaProjects\lab8\src\main\java\lab8\DatabaseAspect.aj
+C:\Users\Фадис\IdeaProjects\lab8\src\main\java\lab8\Main.java
